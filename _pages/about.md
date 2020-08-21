@@ -7,17 +7,19 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+ Hi! You're probably here because you want to get to know me a little better. And you found the right place for that :wave:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+ I am currently doing my **MSc in Computer Science** at [Leipzig University](https://www.uni-leipzig.de), which I started after a Bachelor in Business Information Systems. During my studies I touched on a broad range of topics, which finally led me to a deeper interest in the practical applications of Machine Learning and its intersection with (Computational) Neuroscience. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+ Right now I am working on my Masters thesis at the [Max-Planck-Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition) under the supervision of [Martin Hebart](http://martin-hebart.de/) and [Katja Müller](http://seeliger.space/). We're building **models of the human visual system** and use them to take a look at the brains inner workings. Fun stuff!
+
+ Next to that, I'm a **Data Science Working Student** at [Check24](https://urlaub.check24.de/), where we use Machine Learning to improve our users travel booking experience and make the lives of our customer service easier. Before that, I implemented Image Search Models at [Webdata Solutions](https://www.webdata-solutions.com/), gave being an Academic Tutor a try (for a course on distributed systems) and had a very good time building a Data Warehouse and Data Processing Pipelines at [Mercateo](http://www.mercateo.com/).
+
+
+

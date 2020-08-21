@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2020-04-01 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Started working on my Masters Thesis on "Generating Most Exciting Images for Neural Populations via Image Synthesis from NIF Models" at the MPI for Human Cognitive and Brain Sciences :nerd_face:
