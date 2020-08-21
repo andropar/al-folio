@@ -15,7 +15,7 @@ social: true
 
  Hi! You're probably here because you want to get to know me a little better. And you found the right place for that :wave:
 
- I am currently doing my **MSc in Computer Science** at [Leipzig University](https://www.uni-leipzig.de), which I started after a Bachelor in Business Information Systems. During my studies I touched on a broad range of topics, which finally led me to a deeper interest in the practical applications of Machine Learning and its intersection with (Computational) Neuroscience. 
+ I am currently doing my **MSc in Computer Science** at [Leipzig University](https://www.uni-leipzig.de), which I started after a BSc in Business Information Systems. During my studies I touched on a broad range of topics, which finally led me to a deeper interest in the practical applications of Machine Learning and its intersection with (Computational) Neuroscience. 
 
  Right now I am working on my Masters thesis at the [Max-Planck-Institute for Human Cognitive and Brain Sciences](https://www.cbs.mpg.de/independent-research-groups/vision-and-computational-cognition) under the supervision of [Martin Hebart](http://martin-hebart.de/) and [Katja Müller](http://seeliger.space/). We're building **models of the human visual system** and use them to take a look at the brains inner workings. Fun stuff!
 
